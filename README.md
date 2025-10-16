@@ -15,7 +15,7 @@ This project demonstrates how to build a basic logging system using AWS EC2 and 
 If you want to clone this repo to your EC2 instance:
 ```bash
 git clone https://github.com/Gani2620/AWS-EC2-CloudWatch-logging.git
-cd ec2-cloudwatch-logging-system
+cd AWS-EC2-CloudWatch-logging
 
 ### 3. Run the Automation Script
 If you're on the EC2 instance and have cloned this repository, run:
