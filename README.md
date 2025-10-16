@@ -42,3 +42,5 @@ This will:
 | `README.md`             | Project overview and setup instructions                                     |
 
 
+
+Updated README with setup steps and file descriptions
